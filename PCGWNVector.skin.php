@@ -233,11 +233,6 @@ class PCGWNVectorTemplate extends BaseTemplate {
 							</div>
 							
 						</div>
-						
-						<!-- hp -->
-						<a href="http://www.northamericanweather.net/hpcnawx.php?sid=3798">
-							<div style="height: 0px; width: 0px;"> </div>
-						</a>
 					</div>
 				<?php } ?>
 				<!-- /ad horizontal banner -->
